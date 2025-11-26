@@ -15,7 +15,7 @@ int main()
 
         }
         else
-            printf("It's a constant");
+            printf("It's a consonant");
     }
 
     else
