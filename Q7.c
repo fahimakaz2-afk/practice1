@@ -33,4 +33,5 @@ int main()
        bin/=10;
     }
     printf("decimal = %d\t",dec);
+    return 0;
 }
